@@ -1,2 +1,2 @@
 # SmartMirror1
-abc
+# This is the new Mirror Project!!
