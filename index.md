@@ -1,6 +1,6 @@
 # Trung Trinh - Blog for Smart Mirror Project
 
-# Week 6(Oct 15/17): Breadboard and PCB designed
+# Week 7(Oct 15/17): Breadboard and PCB designed
 # [Breadboard Design Image](https://github.com/Trung28899/SmartMirror/blob/master/documentation/Final%20Design.png)
 # [PCB Image](https://github.com/Trung28899/SmartMirror/blob/master/documentation/PCB%20back.jpg)
 # [Sketch Image]
