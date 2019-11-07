@@ -1,5 +1,43 @@
 # Trung Trinh - Blog for Smart Mirror Project
 
+# Week 9 Hardware (Nov. 5/7): 
+# Still unable to connect to Raspberry PI, Here are steps taken for setting up OS for PI:
+# Step 1: Downloaded Raspbian Lite from  https://www.raspberrypi.org/downloads/raspbian/
+
+# Step 2: Download and Install Bonjour Printer Service and Win32Disk (following the video: https://www.youtube.com/watch?v=xj3MPmJhAPU)
+
+# Step 3: Using Win32Disk, Write Raspbian Lite image to Sd card using Win32Disk
+
+# Step 4: Change the files as following in the root file
+# - Open config.txt: add dtoverlay=dwc2 at the end of the file
+# - Open cmdline.txt add modules-load=dwc2,g_ether at the end of the file
+# Add file ssh  (Following https://www.youtube.com/watch?v=xj3MPmJhAPU )
+
+# Step 5: Connect raspberry Pi zero to laptop
+# - Put micro sd card in Pi zero (tried with two sd card)
+# - Connect through usb cable
+# - In Device Manager should see other devices like minute 3:09 in this video https://www.youtube.com/watch?v=HSSpQDs4lfU
+# > but I didn’t see it
+
+
+# More details: 
+# +, connect Pi without microSd card > see other device in device manager without green light on the Pi > not an usb cable problem
+# +, connect Pi with microsd card > doesn’t see other device in device manager with green light on the Pi > Pi able to read microSd
+# +, Loaded same way on 2 different microSd cards > same issue > not a memory card issue
+# +, Got help from teamate who got Raspbery Pi zero set up and running > stil not able to connect Pi
+
+# NEXT MOVE REGARDING CONNECTING TO RASPBERRY PI: 
+# +, Order a new raspbery Pi zero and reinstall
+# +, Ask for help from Mr.Kelly from next door lab
+
+# ORDERED PCB BOARD AND COMPONENTS FROM AMAZON.CA COMING ON 14TH NOVEMBER
+# [IMAGE LINK](https://github.com/Trung28899/SmartMirror/blob/master/documentation/Order.png)
+
+# Week 8 Hardware (Oct. 29/31)
+# Working on installing OS for Raspberry PI
+# Wasn't able to set up OS for Raspberry PI
+# Builded circuit on Breadboard
+
 # Week 7(Oct 15/17): Breadboard and PCB designed
 # [Breadboard Design Image](https://github.com/Trung28899/SmartMirror/blob/master/documentation/Final%20Design.png)
 # [PCB Image](https://github.com/Trung28899/SmartMirror/blob/master/documentation/PCB%20back.jpg)
