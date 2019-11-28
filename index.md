@@ -8,11 +8,17 @@
 # Week 11 (Nov 19/21) 
 # Case installation for speaker circuit 
 # Speaker fully constructed and functional with speaker, amplifier and cases
+# [Speaker fully finished](https://github.com/Trung28899/SmartMirror/blob/master/documentation/Speaker.jpg)
 # Ordered Raspberry Pi 3 for the project to work with speaker
+<img src="../documentation/RaspberryPi.jpg" alt="Raspberry Pi" height="42" width="42">
 
 # Week 10 (Nov 12/14): PCB power up
 # Received full package of speaker circuit (PCB, electrical components, speaker hat)
+# [IMAGE LINK](https://github.com/Trung28899/SmartMirror/blob/master/documentation/PCB%20with%20components.jpg)
+
 # Soldered speaker circuit
+# [Soldered Circuit Front](https://github.com/Trung28899/SmartMirror/blob/master/documentation/PCB%20soldered%201.jpg)
+# [Soldered Circuit Back](https://github.com/Trung28899/SmartMirror/blob/master/documentation/PCB%20soldered%202.jpg)
 # Speaker working with laptop and phone devices
 
 # Week 9 Hardware (Nov. 5/7): PCB soldered
