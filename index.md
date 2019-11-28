@@ -10,7 +10,7 @@
 # Speaker fully constructed and functional with speaker, amplifier and cases
 # [Speaker fully finished](https://github.com/Trung28899/SmartMirror/blob/master/documentation/Speaker.jpg)
 # Ordered Raspberry Pi 3 for the project to work with speaker
-<img src="https://github.com/Trung28899/SmartMirror/blob/master/documentation/RaspberryPi.jpg" alt="Raspberry Pi" height="42" width="42">
+<img src="https://github.com/Trung28899/SmartMirror/blob/master/documentation/RaspberryPi.jpg" alt="Raspberry Pi" height="242" width="242">
 
 # Week 10 (Nov 12/14): PCB power up
 # Received full package of speaker circuit (PCB, electrical components, speaker hat)
