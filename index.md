@@ -1,23 +1,38 @@
 # Trung Trinh - Blog for Smart Mirror Project
 
-# Week 9 Hardware (Nov. 5/7): 
+# Week 12 (Nov 26/28): 
+# Presentation made
+# Raspberry Pi 3 fully booted up
+# Raspberry Pi 3 working with speaker
+
+# Week 11 (Nov 19/21) 
+# Case installation for speaker circuit 
+# Speaker fully constructed and functional with speaker, amplifier and cases
+# Ordered Raspberry Pi 3 for the project to work with speaker
+
+# Week 10 (Nov 12/14): PCB power up
+# Received full package of speaker circuit (PCB, electrical components, speaker hat)
+# Soldered speaker circuit
+# Speaker working with laptop and phone devices
+
+# Week 9 Hardware (Nov. 5/7): PCB soldered
 # Still unable to connect to Raspberry PI, Here are steps taken for setting up OS for PI:
-# Step 1: Downloaded Raspbian Lite from  https://www.raspberrypi.org/downloads/raspbian/
+# +, Step 1: Downloaded Raspbian Lite from  https://www.raspberrypi.org/downloads/raspbian/
 
-# Step 2: Download and Install Bonjour Printer Service and Win32Disk (following the video: https://www.youtube.com/watch?v=xj3MPmJhAPU)
+# +, Step 2: Download and Install Bonjour Printer Service and Win32Disk (following the video: https://www.youtube.com/watch?v=xj3MPmJhAPU)
 
-# Step 3: Using Win32Disk, Write Raspbian Lite image to Sd card using Win32Disk
+# +, Step 3: Using Win32Disk, Write Raspbian Lite image to Sd card using Win32Disk
 
-# Step 4: Change the files as following in the root file
-# - Open config.txt: add dtoverlay=dwc2 at the end of the file
-# - Open cmdline.txt add modules-load=dwc2,g_ether at the end of the file
-# Add file ssh  (Following https://www.youtube.com/watch?v=xj3MPmJhAPU )
+# +, Step 4: Change the files as following in the root file
+# -> Open config.txt: add dtoverlay=dwc2 at the end of the file
+# -> Open cmdline.txt add modules-load=dwc2,g_ether at the end of the file
+# -> Add file ssh  (Following https://www.youtube.com/watch?v=xj3MPmJhAPU )
 
-# Step 5: Connect raspberry Pi zero to laptop
-# - Put micro sd card in Pi zero (tried with two sd card)
-# - Connect through usb cable
-# - In Device Manager should see other devices like minute 3:09 in this video https://www.youtube.com/watch?v=HSSpQDs4lfU
-# > but I didn’t see it
+# +, Step 5: Connect raspberry Pi zero to laptop
+# -> Put micro sd card in Pi zero (tried with two sd card)
+# -> Connect through usb cable
+# -> In Device Manager should see other devices like minute 3:09 in this video https://www.youtube.com/watch?v=HSSpQDs4lfU
+# => but I didn’t see it
 
 
 # More details: 
