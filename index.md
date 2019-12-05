@@ -2,7 +2,7 @@
 
 # Week 12 (Nov 26/28): 
 # Presentation made
-# [Presentation Link](https://github.com/Trung28899/SmartMirror/blob/master/documentation/CENG317Slides.pdf)
+# [Presentation Link](https://github.com/Trung28899/SmartMirror/blob/master/documentation/CENG317 Slides.pdf)
 # Raspberry Pi 3 fully booted up
 # Raspberry Pi 3 working with speaker
 
